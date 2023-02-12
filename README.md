@@ -7,6 +7,7 @@
  ~$ Twitter: @janetmukami840
 
  Reach out to me using the above.
+
   Available for:
       . Learning
       . Brainstorming
