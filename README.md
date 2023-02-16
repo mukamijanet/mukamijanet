@@ -4,9 +4,9 @@
 ```shell
  ~$ Name: Janet Mukami
  ~$ Email: janetmukami840@gmail.com 
- ~$ Twitter: @janetmukami840
+ ~$ Twitter: @janetmukami_
 
- Reach out to me using the above.
+ Reach out to me using the above
 
   Available for:
       . Learning
